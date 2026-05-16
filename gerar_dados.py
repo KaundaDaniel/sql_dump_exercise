@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 
 
 # ===================== CONFIGURAÇÕES =====================
+
 NUM_CLIENTES = 120
 NUM_CATEGORIAS = 12
 NUM_PRODUTOS = 150
