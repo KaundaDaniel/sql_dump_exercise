@@ -1,5 +1,6 @@
 -- Script gerado em 2026-05-15 20:14
 -- Encoding: UTF-8
+use loja_virtual;
 
 -- ==================== CATEGORIAS ====================
 INSERT INTO categorias (id, nome, descricao) VALUES
